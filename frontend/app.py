@@ -56,7 +56,7 @@ if uploaded:
             }
 
             response = requests.post(
-                "http://127.0.0.1:8000/predict",
+                "http://localhost:8000/predict",
                 files=files,
                 data=data
             )
