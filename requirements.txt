@@ -1,0 +1,13 @@
+torch
+torchvision
+fastapi
+uvicorn
+streamlit
+pillow
+opencv-python
+numpy
+matplotlib
+requests
+google-generativeai
+python-dotenv
+
